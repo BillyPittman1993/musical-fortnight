@@ -2,8 +2,13 @@ body {
   background: #dcf442;
   font-family: courier;
   color: #394c34;
+  margin: 20px;
 }
 
 span {
   font-weight: bold;
+}
+
+.Log_Entry {
+  padding: 20px;
 }
